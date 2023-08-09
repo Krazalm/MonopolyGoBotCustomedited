@@ -12,6 +12,7 @@ https://youtu.be/-MjjCc4hriI
 - [Configuration](#configuration)
 - [Disclaimer](#disclaimer)
 - [Credits](#credits)
+- [Differences](#differences)
 
 ## Features
 
@@ -43,7 +44,7 @@ Open a terminal and navigate to the repository folder. Run the script:
 python main.py
 ```
 Toggle Bot:
-Press the toggle key (default: F2) to start or stop the bot.
+Press the toggle key (F2) to start or stop the bot.
 
 ## Configuration
 DELAY: The delay (in seconds) between bot cycles.
@@ -63,4 +64,13 @@ https://github.com/lewisgibson/monopoly-go-bot
 
 
 
+## Differences from the original work by Lewis Gibson:
 
+- Implements a class named `MonopolyBot`.
+- Uses a continuous loop to process images only when the bot is running.
+- Toggles the bot's running status using a specified key (F2) and `pynput.keyboard`.
+- Utilizes structured logging to print status messages.
+- Obtains sorted image files using a method for image searching.
+- Processes images only when the bot is running.
+- Uses a class-wide cache for loaded images.
+- Offers a more organized and modular design for enhanced maintainability.
