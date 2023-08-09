@@ -20,6 +20,8 @@
 - Toggle bot operation using a designated toggle key (default: F2).
 - Automatically scan and interact with predefined in-game elements.
 - Utilizes PyScreeze and PyAutoGUI for image recognition and interaction.
+- mainV2.py Customizable keybind functionality for toggling the bot on and off. Support for inputting any character as the toggle key.
+
 
 ## Usage
 
