@@ -55,7 +55,9 @@ Use responsibly. Please be aware that automating gameplay using this bot may vio
 
 
 ## Credits:
-This project is based on the original work by Lewis Gibson. We express our gratitude for their contribution. https://github.com/lewisgibson
+This project is based on the original work by Lewis Gibson. We express our gratitude for their contribution. 
+https://github.com/lewisgibson
+https://github.com/lewisgibson/monopoly-go-bot
 
 
 
