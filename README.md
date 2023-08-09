@@ -2,7 +2,7 @@
 
 **Automate gameplay in the Monopoly Go! online game using this Python bot with image recognition capabilities.**
 
-![Demo](demo.gif)
+![Demo](https://youtu.be/-MjjCc4hriI)
 
 ## Table of Contents
 
